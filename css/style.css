@@ -54,6 +54,16 @@ h3 { font-size: 1.15rem; }
   margin-bottom: 0.75rem;
 }
 
+.hero-tagline {
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  font-style: italic;
+  letter-spacing: 0.04em;
+  color: var(--teal-500);
+  text-align: center;
+}
+
 .lead { font-size: 1.15rem; color: var(--ink-soft); margin: 1.25rem 0 2rem; }
 .accent {
   background: linear-gradient(90deg, var(--teal-500), var(--cyan-300));
